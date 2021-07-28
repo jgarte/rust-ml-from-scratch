@@ -1,0 +1,7 @@
+* Simple ML Library
+
+A shitty machine learning library in Rust.
+
+** Linear Regression
+** Perceptron
+** Misc Processing
