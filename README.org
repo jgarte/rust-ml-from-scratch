@@ -1,6 +1,6 @@
 * Simple ML Library
 
-A shitty machine learning library in Rust.
+A fledgeling ml library written in Rust.
 
 ** Linear Regression
 ** Perceptron
