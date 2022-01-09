@@ -1,7 +1,0 @@
-* Simple ML Library
-
-A fledgeling ml library written in Rust.
-
-** Linear Regression
-** Perceptron
-** Misc Processing
